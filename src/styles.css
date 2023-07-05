@@ -1,0 +1,62 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.list-styling {
+  display: flex;
+  flex-direction: row;
+  margin: 12px 3rem;
+  align-items: center;
+}
+.btn {
+  margin: 0px 8px;
+  padding: 0px 12px;
+}
+.nothing-here-text {
+  font-size: 20px;
+  font-weight: 600;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.add-btn {
+  background-color: blue;
+  color: #fff;
+  font-size: 16px;
+  margin-left: 12px;
+  border: 2px solid blue;
+  padding: 6px 12px;
+  border-radius: 8px;
+}
+
+input {
+  padding: 6px 12px;
+  border-radius: 8px;
+}
+
+.edit-btn {
+  background-color: grey;
+  color: #fff;
+  font-size: 16px;
+  margin-left: 12px;
+  border: 2px solid grey;
+  padding: 6px 12px;
+  border-radius: 8px;
+}
+
+.delete-btn {
+  background-color: red;
+  color: #fff;
+  font-size: 16px;
+  margin-left: 12px;
+  border: 2px solid grey;
+  padding: 6px 12px;
+  border-radius: 8px;
+}
+.flex-1 {
+  flex: 1;
+}
+
+button {
+  cursor: pointer;
+}
